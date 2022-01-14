@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "aacb7e6db1ba132a",
+    "type": "split",
+    "children": [
+      {
+        "id": "edbe61bdbc57e033",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Big Unions and Intersections.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ec22b3b97a34b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "5727772860774a52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c86026907d6c1692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "adefd679591f838f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "big union",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cda71081f9907278",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35fefaed050ed50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c108378c346592",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Big Unions and Intersections.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "active": "edbe61bdbc57e033",
+  "lastOpenFiles": [
+    "Big Unions and Intersections.md",
+    "Proposition 91.md",
+    "Powerset axiom.md",
+    "Corollary 86.md",
+    "Proposition 84.md",
+    "Propostion 85.md",
+    "Mathematical Induction.md",
+    "Modular Arithmetic.md",
+    "Conjunction.md",
+    "Commutative.md"
+  ]
+}

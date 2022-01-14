@@ -1,0 +1,1 @@
+$l\cdot(m+n) = l\cdot m + l \cdot n$

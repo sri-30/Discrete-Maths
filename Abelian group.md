@@ -1,0 +1,1 @@
+An Abelian group is a [[Group]] for which the monoid is [[Commutative]].

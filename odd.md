@@ -1,0 +1,1 @@
+**Definition 7** An integer is said to be odd whenever it is of the form $2 \cdot i + 1$ for some (necessarily unique) integer $i$.

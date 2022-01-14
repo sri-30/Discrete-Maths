@@ -1,0 +1,1 @@
+A field $(0, \oplus, 1, \otimes)$ is a [[commutative]] [[Ring]] in which every element besides 0 has a reiprocal (that is [[Inverses]] are present for every element with respect to $\oplus$)

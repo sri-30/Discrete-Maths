@@ -1,0 +1,1 @@
+Let $n$ be a positive integer. If $n+1$ letters are put in $n$ pigeonholes then there will be a pigeonhole with more than one letter.
