@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Big Unions and Intersections.md",
+            "file": "Integer Linear Combinations.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "big union",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Unions and Intersections.md",
+                "file": "Integer Linear Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +87,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Integer Linear Combinations.md",
     "Big Unions and Intersections.md",
     "Proposition 91.md",
     "Powerset axiom.md",
@@ -96,7 +96,6 @@
     "Propostion 85.md",
     "Mathematical Induction.md",
     "Modular Arithmetic.md",
-    "Conjunction.md",
-    "Commutative.md"
+    "Conjunction.md"
   ]
 }
