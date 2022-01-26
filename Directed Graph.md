@@ -17,3 +17,9 @@ $R^{\circ(n+1)} = R^{\circ(n)} \circ R = R \circ R^{\circ(n)}$
 
 
 $$x R^{\circ(2)} y \iff \exists z. x R z \land z R y$$
+
+# Definition
+For $R \in Rel(A)$ let
+
+$$R^{\circ *} = \bigcup \set{R^{\circ n} \in Rel(A) | n \in \mathbb{N}} = \bigcup_{n \in \mathbb{N}} R^{\circ n}$$
+[[Corollary 115]]
