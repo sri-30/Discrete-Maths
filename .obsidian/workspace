@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Integer Linear Combinations.md",
+            "file": "Big Unions and Intersections.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integer Linear Combinations.md",
+                "file": "Big Unions and Intersections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
-    "Integer Linear Combinations.md",
     "Big Unions and Intersections.md",
-    "Proposition 91.md",
-    "Powerset axiom.md",
-    "Corollary 86.md",
-    "Proposition 84.md",
-    "Propostion 85.md",
-    "Mathematical Induction.md",
-    "Modular Arithmetic.md",
-    "Conjunction.md"
+    "Semiring.md",
+    "Russell's Paradox.md",
+    "Ordered Pairing.md",
+    "Numbers.md",
+    "odd.md",
+    "Integer Linear Combinations.md",
+    "Corollary 33.md",
+    "Corollary 47.md",
+    "Disjoint Union.md"
   ]
 }
