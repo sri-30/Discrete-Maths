@@ -17,4 +17,21 @@ RTP: $R^{\circ *} \in \mathcal{F}_R \iff R \subseteq R^{\circ *}$ and $R^{\circ 
 [[Unfinished]]
 
 # ii
-RTP: $R^{\circ *} \subseteq \big \mathcal{F}_R$
+RTP: $R^{\circ *} \subseteq \bigcap \mathcal{F}_R \iff \bigcap_{n \in \mathbb{N}} R^{\circ(n)} \subseteq \bigcap \mathcal{F}_R$
+$\iff \forall n \in \mathbb{N}. R^{\circ (n)} \subseteq \bigcap \mathcal{F}_R$
+$\iff \forall n \in \mathbb{N}. \forall Q \in \mathcal{F}_R. R^{\circ (n)} \subseteq Q$
+
+Proof by induction on $n \in \mathbb{N}$
+
+Base case ($n = 0$)
+
+$id \subseteq Q$ because $Q$ is [[reflexive]]
+
+Inductive step:
+
+IH: $\forall Q \in \mathcal{F}_R. R^{\circ(n)} \subseteq Q$
+RTP: $\forall Q \in \mathcal{F}_R. R^{\circ (n+1)} \subseteq Q.$
+
+Let $Q \in \mathcal{F}_R$
+
+$R^{\circ (n+1)} = R^{\circ (n)} \circ R \subseteq Q \circ Q \subseteq Q$ by [[Transitivity]]
