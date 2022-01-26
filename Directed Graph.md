@@ -23,3 +23,8 @@ For $R \in Rel(A)$ let
 
 $$R^{\circ *} = \bigcup \set{R^{\circ n} \in Rel(A) | n \in \mathbb{N}} = \bigcup_{n \in \mathbb{N}} R^{\circ n}$$
 [[Corollary 115]]
+
+![[Pasted image 20220126183238.png]]
+
+![[Pasted image 20220126183950.png]]
+![[Pasted image 20220126184302.png]]
