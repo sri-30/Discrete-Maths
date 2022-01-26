@@ -51,4 +51,18 @@ as a relation:
 pred = $\set{(n,m) \in \mathbb{N} \times \mathbb{N} | m = max k < n. k \in \mathbb{N}}$
 For all $n \in \mathbb{N}$ there is at most one element equal to $max_{k \in \mathbb{N}}$. For $n = 0$ there is no such element, for $n \geq 1$ that element is $n-1$.
 
-as
+Example: Quotient with remainder for integers
+
+$$qr: \mathbb{Z} \times \mathbb{Z} \rightharpoonup \mathbb{Z} \times \mathbb{N}$$
+$$dom(qr) = \set{(n, m) \in \mathbb{Z} \times \mathbb{Z} | m \neq 0}$$
+$$qr:(n,m) \mapsto (q, r) \in \mathbb{Z} \times \mathbb{N}$$ such that $n = q \cdot m + r$ with $0 \leq r < m$
+![[Pasted image 20220126200831.png]]
+
+Notation: $(A \rightharpoonup B) \subseteq Rel(A, b) = \mathcal{P}(A \times B)$
+$f = g: A \rightharpoonup B \iff \forall a \in A. (f(a) \downarrow \iff g(a) \downarrow) \land [f(a) \downarrow \land g(a) \downarrow \implies f(a) = g(a)]$
+### Identities and Composition
+$id_A \in Rel(A, A)$ is a partial funciton $A \rightharpoonup A$
+
+Let $f: A \rightharpoonup B$ and $g : B \rightharpoonup C$
+Consider $g \circ f \in Rel(A, C) = \set{(a, c) \in A \times C | \exists b \in B. a f b \land b g c}$
+
