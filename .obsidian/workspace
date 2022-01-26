@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Big Unions and Intersections.md",
-            "mode": "preview"
+            "file": "Directed Graph.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -48,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Unions and Intersections.md",
+                "file": "Directed Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,10 +85,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 100
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Directed Graph.md",
     "Big Unions and Intersections.md",
     "Semiring.md",
     "Russell's Paradox.md",
@@ -95,7 +98,6 @@
     "odd.md",
     "Integer Linear Combinations.md",
     "Corollary 33.md",
-    "Corollary 47.md",
-    "Disjoint Union.md"
+    "Corollary 47.md"
   ]
 }
