@@ -10,3 +10,6 @@ $$f \in (A \rightarrow B) \iff \forall a \in A. \exists! b \in B. a f b$$
 
 ![[Pasted image 20220126204225.png]]
 ![[Pasted image 20220127000059.png]]
+![[Pasted image 20220127000611.png]]
+![[Pasted image 20220127000731.png]]
+![[Pasted image 20220127002214.png]]
