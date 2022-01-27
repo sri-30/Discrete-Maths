@@ -9,3 +9,4 @@ $$f \in (A \rightarrow B) \iff \forall a \in A. \exists! b \in B. a f b$$
 ![[Pasted image 20220126204104.png]]
 
 ![[Pasted image 20220126204225.png]]
+![[Pasted image 20220127000059.png]]
