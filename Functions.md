@@ -13,3 +13,5 @@ $$f \in (A \rightarrow B) \iff \forall a \in A. \exists! b \in B. a f b$$
 ![[Pasted image 20220127000611.png]]
 ![[Pasted image 20220127000731.png]]
 ![[Pasted image 20220127002214.png]]
+![[Pasted image 20220127003350.png]]
+![[Pasted image 20220127003408.png]]
