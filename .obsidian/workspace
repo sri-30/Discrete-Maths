@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bijection.md",
+            "file": "Proposition 129.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bijection.md",
+                "file": "Proposition 129.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Proposition 129.md",
     "Bijection.md",
     "Proposition 125.md",
     "Theorem 126.md",
@@ -96,7 +97,6 @@
     "Proposition 122.md",
     "Theorem 121.md",
     "Theorem 118.md",
-    "Big Unions and Intersections.md",
-    "Preorders.md"
+    "Big Unions and Intersections.md"
   ]
 }
