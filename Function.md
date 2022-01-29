@@ -48,4 +48,10 @@ Inductive step:
 
 IH- Suppose that $r$ is functional at $n$
 
-Consider $r' \subseteq \mathbb{N}
+Consider $r' \subseteq \mathbb{N} \times A$ defined as $$i r' x \iff i r x$$
+$\forall 0 \leq i \leq n$
+$$(n+1) r' f(n, y) \forall n r y$$
+$$j r y \forall y$$
+$\forall j > n+1$
+$r \subseteq r'$
+$r'$ is (a,f)-closed and functional at $n+1$ because by (IH) $r$ is functional at $n$. Therefore $r$ is functional at $n+1$.
