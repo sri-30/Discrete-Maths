@@ -7,12 +7,8 @@
         "id": "edbe61bdbc57e033",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Isomorphic.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isomorphic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +83,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Statement.md",
+    "Conjunction.md",
+    "Big Unions and Intersections.md",
+    "Bijection.md",
+    "Bi-implication.md",
+    "Existential Quantification.md",
     "Isomorphic.md",
     "Theorem 130.md",
     "Theorem 126.md",
-    "Proposition 129.md",
-    "Bijection.md",
-    "Proposition 125.md",
-    "Partial Functions.md",
-    "Function.md",
-    "Proposition 122.md",
-    "Theorem 121.md"
+    "Proposition 129.md"
   ]
 }
