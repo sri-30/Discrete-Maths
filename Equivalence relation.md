@@ -29,6 +29,5 @@ $P_1 = \set{\mathbb{Z}}$
 $P_2 = \set{\text{Odd}, \text{Even}}$
 $P_3 = \set{\set{3k, k \in \mathbb{Z}}, \set{3k+1, k \in \mathbb{Z}}, \set{3k+2, k \in \mathbb{Z}}}$
 
-
-
+[[Theorem 134]]
 
