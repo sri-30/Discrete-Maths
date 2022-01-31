@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Equivalence relations.md",
+            "file": "Theorem 134.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equivalence relations.md",
+                "file": "Theorem 134.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Theorem 134.md",
     "Equivalence relations.md",
+    "Bijection.md",
     "Statement.md",
     "Conjunction.md",
     "Big Unions and Intersections.md",
-    "Bijection.md",
     "Bi-implication.md",
     "Existential Quantification.md",
     "Isomorphic.md",
-    "Theorem 130.md",
-    "Theorem 126.md"
+    "Theorem 130.md"
   ]
 }
