@@ -7,8 +7,12 @@
         "id": "edbe61bdbc57e033",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Equivalence relations.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +88,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Equivalence relations.md",
     "Statement.md",
     "Conjunction.md",
     "Big Unions and Intersections.md",
@@ -91,7 +97,6 @@
     "Existential Quantification.md",
     "Isomorphic.md",
     "Theorem 130.md",
-    "Theorem 126.md",
-    "Proposition 129.md"
+    "Theorem 126.md"
   ]
 }
