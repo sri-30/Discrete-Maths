@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theorem 134.md",
+            "file": "Calculus of Bijections.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorem 134.md",
+                "file": "Calculus of Bijections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Calculus of Bijections.md",
     "Theorem 134.md",
     "Equivalence relation.md",
     "Bijection.md",
@@ -96,7 +97,6 @@
     "Big Unions and Intersections.md",
     "Bi-implication.md",
     "Existential Quantification.md",
-    "Isomorphic.md",
-    "Theorem 130.md"
+    "Isomorphic.md"
   ]
 }

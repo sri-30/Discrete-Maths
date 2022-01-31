@@ -15,3 +15,8 @@
 	$a_1 E b E a_2$
 	Lemma: $a_1 E a_2 \iff [a_1]_E = [a_2]_E$
 	
+![[Pasted image 20220131203604.png]]
+![[Pasted image 20220131203955.png]]
+![[Pasted image 20220131204037.png]]
+![[Pasted image 20220131204303.png]]
+![[Pasted image 20220131204421.png]]
