@@ -7,12 +7,8 @@
         "id": "edbe61bdbc57e033",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bijection.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bijection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +83,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Big Unions and Intersections.md",
+    "Disjoint Union.md",
+    "Directed Graph.md",
+    "Diffie-Hellman Cryptographic Method.md",
     "Bijection.md",
     "Proposition 129.md",
     "Theorem 130.md",
     "Isomorphic.md",
     "Theorem 43 (Division Theorem).md",
-    "Theorem 80.md",
-    "Statement.md",
-    "Semiring.md",
-    "Calculus of Bijections.md",
-    "Theorem 134.md"
+    "Theorem 80.md"
   ]
 }
