@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 169
+    "width": 299
   },
   "right": {
     "id": "cda71081f9907278",
