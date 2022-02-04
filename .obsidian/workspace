@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Corollary 97.md",
-            "mode": "source",
+            "file": "Disjoint Union.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corollary 97.md",
+                "file": "Disjoint Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +89,8 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
-    "Corollary 97.md",
     "Disjoint Union.md",
+    "Corollary 97.md",
     "Calculus of Bijections.md",
     "Big Unions and Intersections.md",
     "Directed Graph.md",
