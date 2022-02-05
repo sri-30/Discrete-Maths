@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite Cardinality.md",
+            "file": "Theorem 140.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite Cardinality.md",
+                "file": "Theorem 140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Theorem 140.md",
+    "Surjection.md",
+    "Proposition 138.md",
+    "Bijection.md",
+    "Infinity Axiom.md",
+    "Theorem 137.md",
     "Finite Cardinality.md",
     "Characteristic Function.md",
     "Arithmetic Laws of Sets.md",
-    "Calculus of Bijections.md",
-    "Set.md",
-    "Powerset axiom.md",
-    "Big Unions and Intersections.md",
-    "Disjoint Union.md",
-    "Corollary 97.md",
-    "Directed Graph.md"
+    "Calculus of Bijections.md"
   ]
 }
