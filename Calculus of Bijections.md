@@ -4,4 +4,7 @@ If $A \cong X$ and $B \cong Y$ then
 	$\text{Rel}(A, B) \cong \text{Rel}(X, Y), (A \implies B) \cong (X \implies Y)$
 	$(A \implies B) \cong (X \implies Y), \text{Bij}(A,B) \cong \text{Bij}(X,Y)$
 
-	
+
+![[Pasted image 20220205165044.png]]
+
+

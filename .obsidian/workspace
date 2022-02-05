@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Disjoint Union.md",
-            "mode": "preview",
+            "file": "Arithmetic Laws of Sets.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 100
   },
   "right": {
     "id": "cda71081f9907278",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disjoint Union.md",
+                "file": "Arithmetic Laws of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 100
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Arithmetic Laws of Sets.md",
+    "Calculus of Bijections.md",
+    "Set.md",
+    "Powerset axiom.md",
+    "Big Unions and Intersections.md",
     "Disjoint Union.md",
     "Corollary 97.md",
-    "Calculus of Bijections.md",
-    "Big Unions and Intersections.md",
     "Directed Graph.md",
     "Diffie-Hellman Cryptographic Method.md",
-    "Bijection.md",
-    "Proposition 129.md",
-    "Theorem 130.md",
-    "Isomorphic.md"
+    "Bijection.md"
   ]
 }
