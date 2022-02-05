@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theorem 140.md",
+            "file": "Countable.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorem 140.md",
+                "file": "Countable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
-    "Theorem 140.md",
+    "Countable.md",
+    "Proposition 143.md",
+    "Enumerable.md",
     "Surjection.md",
+    "Theorem 140.md",
     "Proposition 138.md",
     "Bijection.md",
     "Infinity Axiom.md",
     "Theorem 137.md",
-    "Finite Cardinality.md",
-    "Characteristic Function.md",
-    "Arithmetic Laws of Sets.md",
-    "Calculus of Bijections.md"
+    "Finite Cardinality.md"
   ]
 }
