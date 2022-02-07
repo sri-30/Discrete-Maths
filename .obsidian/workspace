@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Countable.md",
-            "mode": "source",
+            "file": "Powerset axiom.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\uplus",
+                "query": "powe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 340
   },
   "right": {
     "id": "cda71081f9907278",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Countable.md",
+                "file": "Powerset axiom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Powerset axiom.md",
+    "Big Unions and Intersections.md",
+    "Bijection.md",
     "Countable.md",
     "Proposition 143.md",
     "Enumerable.md",
     "Surjection.md",
     "Theorem 140.md",
     "Proposition 138.md",
-    "Bijection.md",
-    "Infinity Axiom.md",
-    "Theorem 137.md",
-    "Finite Cardinality.md"
+    "Infinity Axiom.md"
   ]
 }
