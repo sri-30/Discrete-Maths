@@ -13,3 +13,8 @@ $$s(0), s(1) ... s(n) ... n \in \mathbb{N}$$
 RTP: No way to enumerate infinite sequences of bits
 ![[Pasted image 20220210193751.png]]
 Also there is not $\mathbb{N} \twoheadrightarrow \mathcal{P}(\mathbb{N}))$ [[Unfinished]]
+
+Corollary: The sets
+
+$$[0, 1] \cong \mathbb{R}$$
+ are not countable

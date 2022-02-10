@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Uncountable Cardinality.md",
+            "file": "Theorem 156 (Cantor's diagonalisation argument).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncountable Cardinality.md",
+                "file": "Theorem 156 (Cantor's diagonalisation argument).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Theorem 156 (Cantor's diagonalisation argument).md",
     "Uncountable Cardinality.md",
     "Powerset axiom.md",
     "Big Unions and Intersections.md",
@@ -96,7 +97,6 @@
     "Proposition 143.md",
     "Enumerable.md",
     "Surjection.md",
-    "Theorem 140.md",
-    "Proposition 138.md"
+    "Theorem 140.md"
   ]
 }
