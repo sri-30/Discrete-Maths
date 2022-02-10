@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Powerset axiom.md",
-            "mode": "preview",
+            "file": "Uncountable Cardinality.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "powe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 100
   },
   "right": {
     "id": "cda71081f9907278",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Powerset axiom.md",
+                "file": "Uncountable Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Uncountable Cardinality.md",
     "Powerset axiom.md",
     "Big Unions and Intersections.md",
     "Bijection.md",
@@ -97,7 +97,6 @@
     "Enumerable.md",
     "Surjection.md",
     "Theorem 140.md",
-    "Proposition 138.md",
-    "Infinity Axiom.md"
+    "Proposition 138.md"
   ]
 }
