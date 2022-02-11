@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theorem 156 (Cantor's diagonalisation argument).md",
+            "file": "Theorem 158.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorem 156 (Cantor's diagonalisation argument).md",
+                "file": "Theorem 158.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Theorem 158.md",
+    "Fixed-Point.md",
+    "Function.md",
     "Theorem 156 (Cantor's diagonalisation argument).md",
     "Uncountable Cardinality.md",
     "Powerset axiom.md",
     "Big Unions and Intersections.md",
     "Bijection.md",
     "Countable.md",
-    "Proposition 143.md",
-    "Enumerable.md",
-    "Surjection.md",
-    "Theorem 140.md"
+    "Proposition 143.md"
   ]
 }
