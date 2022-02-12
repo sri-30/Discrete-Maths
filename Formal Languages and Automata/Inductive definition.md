@@ -17,3 +17,9 @@ Given a [[set]] of axioms and rules for inductively defining a subset of a given
 For example (using the above axioms and rules):
 - $abaabb$ is in the subset defined inductively
 - $abaab$ is not in that subset (there is no derivation with that conclusion as there are different numbers of the letters $a$ and $b$ in the [[string]])
+
+# Example: [[Transitive]] closure
+Given a binary relation $R \subseteq X \times X$ on a set $X$, its transitive closure $R^{+}$ is the smallest (for subset inclusion) binary relation on $X$ which contains $R$ and which is transitive ($\forall x,y,z \in X. (x,y) \in R^{+} \land (y,z) \in R^{+} \implies (x,z) \in R^{+}$)
+
+$R^{+}$ is equal to the subset of $X \times X$ inductively defined by axioms $\frac{}{(x,y)}$ for all $(x,y) \in R$
+rules $\frac{(x,y) (y,z)}{(x,z)}$ (for all $x,y,z \in X$)

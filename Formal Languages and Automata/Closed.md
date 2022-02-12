@@ -1,0 +1,1 @@
+Repeatedly applying a rule on a string does not result in the string leaving the set.
