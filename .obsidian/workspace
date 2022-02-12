@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formal Languages and Automata/String.md",
+            "file": "Formal Languages and Automata/Inductive definitions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages and Automata/String.md",
+                "file": "Formal Languages and Automata/Inductive definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Formal Languages and Automata/Inductive definitions.md",
+    "Formal Languages and Automata/Formal Language.md",
+    "Formal Languages and Automata/Concatenate.md",
+    "Untitled 1.md",
     "Formal Languages and Automata/String.md",
     "Untitled.md",
     "Formal Languages and Automata/Alphabet.md",
     "Functional Images.md",
     "Proposition 147.md",
-    "Theorem 146.md",
-    "Injection.md",
-    "Axiom of choice.md",
-    "Theorem 158.md",
-    "Fixed-Point.md"
+    "Theorem 146.md"
   ]
 }
