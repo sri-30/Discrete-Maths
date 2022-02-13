@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formal Languages and Automata/Rule Induction.md",
+            "file": "Formal Languages and Automata/Regular Expression.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages and Automata/Rule Induction.md",
+                "file": "Formal Languages and Automata/Regular Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
-    "Formal Languages and Automata/Rule Induction.md",
-    "Formal Languages and Automata/String.md",
+    "Formal Languages and Automata/Regular Expression.md",
+    "Formal Languages and Automata/Alphabet.md",
+    "Formal Languages and Automata/Closed.md",
     "Formal Languages and Automata/Concatenate.md",
     "Formal Languages and Automata/Formal Language.md",
-    "Formal Languages and Automata/Inductive definition.md",
-    "Formal Languages and Automata/Closed.md",
-    "Transitive.md",
-    "Formal Languages and Automata/Alphabet.md",
+    "Formal Languages and Automata/String.md",
+    "Formal Languages and Automata/Rule Induction.md",
     "Formal Languages and Automata/Untitled.md",
-    "Untitled 1.md"
+    "Formal Languages and Automata/Inductive definition.md",
+    "Transitive.md"
   ]
 }
