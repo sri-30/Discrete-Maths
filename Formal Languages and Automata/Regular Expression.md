@@ -16,4 +16,8 @@ Let $\Sigma '$ be the 6-element set $\set{\epsilon, \emptyset, |, *, (,)}$ (assu
 The 'signature' for regular expression abstract syntax trees (over an alphabet $\Sigma$) consists of
 - binary operators Union and Concat
 - unary operator Star
-- nullary operators (constants) Null, Empty
+- nullary operators (constants) Null, Empty and $\text{Sym}_a$ (one for each $a \in \Sigma$)
+![[Pasted image 20220213005431.png]]
+![[Pasted image 20220213005456.png]]
+### Relating concrete and abstract syntax
+![[Pasted image 20220213005524.png]]
