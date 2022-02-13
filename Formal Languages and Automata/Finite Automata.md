@@ -43,3 +43,16 @@ $$\forall q' (q \xrightarrow{q} q' \iff q' = \delta(q,a))$$
 ## Example of a DFA
 ![[Pasted image 20220213155514.png]]
 ![[Pasted image 20220213155646.png]]
+
+# $\epsilon$ - Transitions
+When constructing machines for matching strings with [[regular expression]]s it is useful to consider finite state machines exhibiting an 'internal' form of non-determinism in which the machine is allowed to change state without consuming any input symbol. One calls such transitions $\epsilon$-transitions and writes them as $q \xrightarrow{\epsilon}q'$.
+
+When using and NFA$^{\epsilon}$ $M$ to accept a string $u \in \Sigma^{*}$ of input symbols, we are interested in sequences of transitions in which the symbols in $u$ occur in the correct order, but with zero or more $\epsilon$-transitions before or after each one. We write $q \xRightarrow{u}q'$ to indicate that such a sequence exists from state $q$ to state $q'$ in the NFA$^{\epsilon}$. Equivalently, $\set{(q,u,q')|q\xRightarrow{u}q'}$ is the subset of $Q \times \Sigma^{*} \times Q$ inductively defined by
+![[Pasted image 20220213160408.png]]
+
+> An NFA with $\epsilon$-transitions (NFA$^{\epsilon}$)
+> $M=(Q,\Sigma,\Delta,s,F,T)$
+> is an NFA $(Q, \Sigma, \Delta, s, F)$ together with a subset
+> $T \subseteq Q \times Q$, called the $\epsilon$-transition relation
+![[Pasted image 20220213160640.png]]
+![[Pasted image 20220213160940.png]]
