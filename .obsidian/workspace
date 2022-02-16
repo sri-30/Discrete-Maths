@@ -7,8 +7,12 @@
         "id": "edbe61bdbc57e033",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Formal Languages and Automata/NFA-epsilon to DFA.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NFA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formal Languages and Automata/NFA-epsilon to DFA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Formal Languages and Automata/NFA-epsilon to DFA.md",
     "Formal Languages and Automata/Finite Automata.md",
     "Formal Languages and Automata/Regular Expression.md",
+    "Formal Languages and Automata/Inductive definition.md",
     "Formal Languages and Automata/Rule Induction.md",
     "Formal Languages and Automata/Formal Language.md",
     "Matching.md",
     "Formal Languages and Automata/Regular Expression Matching.md",
     "Untitled 2.md",
-    "Formal Languages and Automata/Alphabet.md",
-    "Formal Languages and Automata/Closed.md",
-    "Formal Languages and Automata/Concatenate.md"
+    "Formal Languages and Automata/Alphabet.md"
   ]
 }
