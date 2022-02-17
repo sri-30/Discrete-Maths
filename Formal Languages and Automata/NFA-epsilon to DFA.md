@@ -6,4 +6,12 @@ For DFA: $\delta: Q \times \Sigma \rightarrow Q$, and no $T$
 
 For PM $Q' = \mathcal{P}(Q)$
 
-In state $Q_0$ there is a state transition $q_0 \xRightarrow{\epsilon b} q_2$
+In state $q_0$ there is a state transition $q_0 \xRightarrow{\epsilon b} q_2$
+
+$\delta(S, a) = \set{q' \in Q | \exists q \in S. (q, a, q') \in \Delta}$
+
+$s' = \set{q_0, q_1, q_2} = \set{q' \in Q| (s, q') \in T}$
+
+The accepting states are states that contain at least one accepting state.
+
+$F' = \set{s \in Q'| S \cap F \neq \emptyset}$
