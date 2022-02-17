@@ -30,3 +30,4 @@ RTP:
 $L(M) \subseteq L(PM)$
 $L(PM) \subseteq L(M)$
 ![[Pasted image 20220217230507.png]]
+![[Pasted image 20220217232401.png]]
