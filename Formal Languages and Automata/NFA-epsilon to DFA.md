@@ -15,3 +15,10 @@ $s' = \set{q_0, q_1, q_2} = \set{q' \in Q| (s, q') \in T}$
 The accepting states are states that contain at least one accepting state.
 
 $F' = \set{s \in Q'| S \cap F \neq \emptyset}$
+
+> **Theorem**: For each $NFA^{$
+
+## Proving that $P$ is equivalent to $PM$
+RTP:
+$L(M) \subseteq L(PM)$
+$L(PM) \subseteq L(M)$
