@@ -70,3 +70,38 @@ Thus $L(r^{*}) = L(Star(M))$ when $L(r) = L(M)$
 Hence if the subset $F$ of accepting states has $k$ distinct elements, $q_1,...,q_k$ say, then $L(M)=L(r)$ with $r \triangleq r_1 | ... r_k$ where
 $$r_i=r^{Q}_{s,q_i}. (i=1,...,k)$$
 (in case $k=0$, we take $r$ to be the regular expression $\emptyset$)
+
+## Proof of above Lemma
+The regular expression $r^{S}_{q,q'}$ can be constructed by induction on the number of elements in the subset $S$.
+
+### Base Case
+
+$S$ is empty**. In this case, for each pair of states $q,q'$, we are looking for a regular expression to describe the set of strings
+
+$$\set{u|q\xrightarrow{u}*q' \text{ with not intermediate states in the sequence of transitions}}$$
+So each element of this set is either a single input symbol $a$ (if $q \xrightarrow{a} q'$ holds in $M$) or possibly $\varepsilon$ in case $q=q'$. If there are no input symbols that take us from $q$ to $q'$ in $M$, we can simply take
+    $$r^{\emptyset}_{q,q'} \triangleq   \left\{
+\begin{array}{ll}
+      \emptyset & \text{if } q \neq q' \\
+      \varepsilon & \text{if } q = q' \\
+\end{array} 
+\right.  $$
+If there are some such input symbols, $a_1,...,a_k$ say, we can take
+    $$r^{\emptyset}_{q,q'} \triangleq   \left\{
+\begin{array}{ll}
+      \ a_1 \vert ... \vert emptyset & \text{if } q \neq q' \\
+      \ a_1 \vert ... \vert \varepsilon & \text{if } q = q' \\
+\end{array} 
+\right.  $$
+### Induction Step
+**Notation**: $X \backslash Y = \set{X \in X | x \notin Y}$ set of elements of $X$ that are not in $Y$. *Relative complement* of $X$ by $Y$.
+
+Suppose we have defined the required regular expressions for all subsetss of states with $n$ elements. If $S$ is a subset with $n+1$ elements, choose some element $q_0 \in S$ and consider the $n$-element set $S \backslash \set{q_0} = \set{q \in S| q \neq q_0}$. Then for any pair of states $q,q' \in States_{M}$, by inductive hypothesis we have already constructed the regular expressions
+
+$$r_1 \triangleq r_{q,q'}^{S \backslash \set{q_0}} \, r_2 \triangleq r_{q,q_0}^{S \backslash \set{q_0}} \, r_3 \triangleq r_{q_0,q_0}^{S \backslash \set{q_0}} \, r_4 \triangleq r_{q_0,q'}^{S \backslash \set{q_0}}$$
+Consider the regular expression
+$$r \triangleq r_1 | r_2(r_3)*r_4$$
+Clearly every string matching $r$ is in the set
+
+$$\set{u|q\xrightarrow{u}*q' \text{ with all intermediate states in the sequence of transitions in }S}$$
+Conversely, if $u$ is in this set, consider the number of times the sequence of transitions $q \xrightarrow{u}* q'$ passes through state $q_0$. If this number is zero then $u
