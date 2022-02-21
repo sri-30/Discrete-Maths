@@ -60,3 +60,13 @@ Thus $L(r^{*}) = L(Star(M))$ when $L(r) = L(M)$
 
 ![[Pasted image 20220221010130.png]]
 ![[Pasted image 20220221010215.png]]
+
+# From automaton to Regex
+> Every regular language is of the form $L(r)$ for some regular expression $r$
+
+> **Lemma**: Given an NFA $M=(Q, \Sigma, \Delta, s, F)$, for each subset $S \subseteq Q$ and each pair of states $q,q' \in Q$, there is a regular expression $r^{S}_{q,q'}$ satisfying
+> $$L(r^{S}_{q,q'}=\set{u \in \Sigma^{*} | q \xrightarrow{u}* q' \text{ in M with all intermediate states of the sequence of transitions in S}}$$
+
+Hence if the subset $F$ of accepting states has $k$ distinct elements, $q_1,...,q_k$ say, then $L(M)=L(r)$ with $r \triangleq r_1 | ... r_k$ where
+$$r_i=r^{Q}_{s,q_i}. (i=1,...,k)$$
+(in case $k=0$, we take $r$ to be the regular expression $\emptyset$)
