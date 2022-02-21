@@ -55,3 +55,8 @@ Thus $L(r^{*}) = L(Star(M))$ when $L(r) = L(M)$
 ![[Pasted image 20220221004935.png]]
 ![[Pasted image 20220221004952.png]]
 [[Unfinished]]
+
+![[Pasted image 20220221005900.png]]
+
+![[Pasted image 20220221010130.png]]
+![[Pasted image 20220221010215.png]]
