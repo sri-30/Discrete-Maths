@@ -104,4 +104,9 @@ $$r \triangleq r_1 | r_2(r_3)*r_4$$
 Clearly every string matching $r$ is in the set
 
 $$\set{u|q\xrightarrow{u}*q' \text{ with all intermediate states in the sequence of transitions in }S}$$
-Conversely, if $u$ is in this set, consider the number of times the sequence of transitions $q \xrightarrow{u}* q'$ passes through state $q_0$. If this number is zero then $u
+Conversely, if $u$ is in this set, consider the number of times the sequence of transitions $q \xrightarrow{u}* q'$ passes through state $q_0$. If this number is zero then $u \in L(r_1)$ (by definition of $r_1$). Otherwise this number is $k \geq 1$ and the sequence splits into $k+1$ pieces: the first piece is in $L(r_2)$ (as the sequence goes from $q$ to the first occurence of $q_0$), the next $k-1$ pieces are in $L(r_3)$ (as the sequence goes from one occurrence of $q_0$ to the next), and the last piece is in $L(r_4)$ (as the sequence goes from the last occurrence of $q_0$ to $q'$). So in this case $u$ is in $L(r_2(r_3)*r_4).$ So in either case $u$ is in $L(r)$. So to complete the induction step we can define $r^{S}_{q,q'}$ to be this [[regular expression]] $r = r_1 | r_2(r_3)*r_4$.
+
+## Example
+![[Pasted image 20220221024226.png]]
+![[Pasted image 20220221024258.png]]
+![[Pasted image 20220221024754.png]]
