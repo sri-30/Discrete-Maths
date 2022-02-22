@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formal Languages and Automata/Closure under intersection.md",
+            "file": "Formal Languages and Automata/Regular Expression Equivalence.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages and Automata/Closure under intersection.md",
+                "file": "Formal Languages and Automata/Regular Expression Equivalence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Formal Languages and Automata/Regular Expression Equivalence.md",
+    "Untitled 4.md",
     "Formal Languages and Automata/Closure under intersection.md",
     "Untitled 3.md",
     "Formal Languages and Automata/Closeure under complementation.md",
@@ -95,8 +97,6 @@
     "Formal Languages and Automata/Formal Language.md",
     "Formal Languages and Automata/Alphabet.md",
     "Formal Languages and Automata/NFA-epsilon to DFA.md",
-    "Formal Languages and Automata/Finite Automata.md",
-    "Formal Languages and Automata/Regular Expression.md",
-    "Formal Languages and Automata/Inductive definition.md"
+    "Formal Languages and Automata/Finite Automata.md"
   ]
 }
