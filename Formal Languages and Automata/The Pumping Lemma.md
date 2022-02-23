@@ -30,3 +30,5 @@ The following languages are not regular:
 	- For each $l \geq 1, a^lba^l \in L_2$ is of length $\geq l$ and has the above property
 - $L_3 \triangleq \set{a^p | p \text{ prime}}$
 	- For each $l \geq 1$ we can find a prime $p$ with $p > 2l$ and then $a^p \in L_3$ has length $\geq l$ and has the above property
+	- E.g. $a^p = a^ra^sa^{p-r-s}$ Pumped: $a^ra^{s(p-s)}a^{p-r-s} = a^{(s+1)(p-s)}$ the exponent is not prime as it has two factors
+![[Pasted image 20220222031715.png]]
