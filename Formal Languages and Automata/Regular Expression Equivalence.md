@@ -15,6 +15,6 @@ iff
 
 where $M$ and $N$ are DFAs accepting the sets of strings matched by the regular expressions $(\neg r) \land s$ and $(\neg s) \land r$ respectively.
 
-So to decide equivalence for regular expressions it suffices to check, given any given DFA $M$, whether or not it accepts osme string.
+So to decide equivalence for regular expressions it suffices to check, given any given DFA $M$, whether or not it accepts some string.
 
 The number of transitions needed to reach an accepting state in a finite automaton is bounded by the number of states (we can remove loops from longer paths). So we only have to check finitely many strings to see whether or not $L(M)$ is empty.
