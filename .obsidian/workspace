@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Congruence.md",
+            "file": "Formal Languages and Automata/Kleene's Theorem.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NFA",
+                "query": "regular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Congruence.md",
+                "file": "Formal Languages and Automata/Kleene's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +89,14 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Formal Languages and Automata/Kleene's Theorem.md",
+    "Formal Languages and Automata/Closeure under complementation.md",
     "Congruence.md",
     "Formal Languages and Automata/NFA-epsilon to DFA.md",
     "Formal Languages and Automata/Regular Expression Equivalence.md",
     "Formal Languages and Automata/Regular Expression.md",
     "Formal Languages and Automata/Regular Expression Matching.md",
-    "Formal Languages and Automata/Kleene's Theorem.md",
     "Formal Languages and Automata/String.md",
-    "Formal Languages and Automata/Closeure under complementation.md",
     "Formal Languages and Automata/Closure under intersection.md",
     "Formal Languages and Automata/Concatenate.md"
   ]
