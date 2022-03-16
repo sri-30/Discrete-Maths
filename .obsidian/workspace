@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Axiom of choice.md",
-            "mode": "source",
+            "file": "Formal Languages and Automata/Rule Induction.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Axiom of choice.md",
+                "file": "Formal Languages and Automata/Rule Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Formal Languages and Automata/Rule Induction.md",
+    "Big Unions and Intersections.md",
     "Axiom of choice.md",
     "Bijection.md",
     "Formal Languages and Automata/Finite Automata.md",
@@ -95,8 +97,6 @@
     "Formal Languages and Automata/Regular Expression Equivalence.md",
     "Untitled 4.md",
     "Formal Languages and Automata/Closure under intersection.md",
-    "Untitled 3.md",
-    "Formal Languages and Automata/Closeure under complementation.md",
-    "Formal Languages and Automata/Kleene's Theorem.md"
+    "Untitled 3.md"
   ]
 }
