@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "regular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,13 +90,13 @@
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
     "Formal Languages and Automata/Kleene's Theorem.md",
+    "Formal Languages and Automata/Closeure under complementation.md",
     "Formal Languages and Automata/Regular Expression Equivalence.md",
     "Formal Languages and Automata/Regular Expression Matching.md",
     "Formal Languages and Automata/Regular Expression.md",
     "Equivalence relation.md",
     "Injection.md",
     "Bijection.md",
-    "Formal Languages and Automata/Closeure under complementation.md",
     "Congruence.md",
     "Formal Languages and Automata/NFA-epsilon to DFA.md"
   ]
