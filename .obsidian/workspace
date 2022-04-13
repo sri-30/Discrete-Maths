@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formal Languages and Automata/The Pumping Lemma.md",
+            "file": "Formal Languages and Automata/Regular Expression Matching.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages and Automata/The Pumping Lemma.md",
+                "file": "Formal Languages and Automata/Regular Expression Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Formal Languages and Automata/Regular Expression Matching.md",
+    "Formal Languages and Automata/Regular Expression Equivalence.md",
+    "Formal Languages and Automata/Regular Expression.md",
     "Formal Languages and Automata/The Pumping Lemma.md",
     "Formal Languages and Automata/Kleene's Theorem.md",
     "Formal Languages and Automata/Closeure under complementation.md",
-    "Formal Languages and Automata/Regular Expression Equivalence.md",
-    "Formal Languages and Automata/Regular Expression Matching.md",
-    "Formal Languages and Automata/Regular Expression.md",
     "Equivalence relation.md",
     "Injection.md",
     "Bijection.md",
