@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Partial Functions.md",
+            "file": "Surjection.md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partial Functions.md",
+                "file": "Surjection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
-    "Partial Functions.md",
+    "Surjection.md",
+    "Injection.md",
     "Function.md",
+    "Partial Functions.md",
     "Bijection.md",
     "Divisibility.md",
     "Formal Languages and Automata/Finite Automata.md",
     "Formal Languages and Automata/NFA-epsilon to DFA.md",
     "Formal Languages and Automata/Regular Expression Matching.md",
-    "Formal Languages and Automata/Regular Expression Equivalence.md",
-    "Formal Languages and Automata/Regular Expression.md",
-    "Formal Languages and Automata/The Pumping Lemma.md"
+    "Formal Languages and Automata/Regular Expression Equivalence.md"
   ]
 }
