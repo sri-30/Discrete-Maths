@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Surjection.md",
+            "file": "Equivalence relation.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "surj",
+                "query": "equivalence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surjection.md",
+                "file": "Equivalence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Equivalence relation.md",
     "Surjection.md",
     "Injection.md",
     "Function.md",
@@ -97,7 +98,6 @@
     "Divisibility.md",
     "Formal Languages and Automata/Finite Automata.md",
     "Formal Languages and Automata/NFA-epsilon to DFA.md",
-    "Formal Languages and Automata/Regular Expression Matching.md",
-    "Formal Languages and Automata/Regular Expression Equivalence.md"
+    "Formal Languages and Automata/Regular Expression Matching.md"
   ]
 }
