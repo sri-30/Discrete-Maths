@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equivalence",
+                "query": "quotient",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
