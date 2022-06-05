@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Equivalence relation.md",
+            "file": "Countable.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reflex",
+                "query": "countable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equivalence relation.md",
+                "file": "Countable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Countable.md",
     "Equivalence relation.md",
     "Surjection.md",
     "Injection.md",
@@ -97,7 +98,6 @@
     "Bijection.md",
     "Divisibility.md",
     "Formal Languages and Automata/Finite Automata.md",
-    "Formal Languages and Automata/NFA-epsilon to DFA.md",
-    "Formal Languages and Automata/Regular Expression Matching.md"
+    "Formal Languages and Automata/NFA-epsilon to DFA.md"
   ]
 }
