@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formal Languages and Automata/NFA-epsilon to DFA.md",
+            "file": "Big Unions and Intersections.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages and Automata/NFA-epsilon to DFA.md",
+                "file": "Big Unions and Intersections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "edbe61bdbc57e033",
   "lastOpenFiles": [
+    "Big Unions and Intersections.md",
     "Formal Languages and Automata/NFA-epsilon to DFA.md",
     "Countable.md",
     "Equivalence relation.md",
@@ -96,7 +97,6 @@
     "Function.md",
     "Partial Functions.md",
     "Bijection.md",
-    "Divisibility.md",
-    "Formal Languages and Automata/Finite Automata.md"
+    "Divisibility.md"
   ]
 }
